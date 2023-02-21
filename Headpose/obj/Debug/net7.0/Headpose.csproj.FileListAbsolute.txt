@@ -1,0 +1,15 @@
+C:\Users\RaPIDadmin\Desktop\Headpose\bin\Debug\net7.0\Headpose.exe
+C:\Users\RaPIDadmin\Desktop\Headpose\bin\Debug\net7.0\Headpose.deps.json
+C:\Users\RaPIDadmin\Desktop\Headpose\bin\Debug\net7.0\Headpose.runtimeconfig.json
+C:\Users\RaPIDadmin\Desktop\Headpose\bin\Debug\net7.0\Headpose.dll
+C:\Users\RaPIDadmin\Desktop\Headpose\bin\Debug\net7.0\Headpose.pdb
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.csproj.AssemblyReference.cache
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.AssemblyInfoInputs.cache
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.AssemblyInfo.cs
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.csproj.CoreCompileInputs.cache
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.dll
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\refint\Headpose.dll
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.pdb
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\Headpose.genruntimeconfig.cache
+C:\Users\RaPIDadmin\Desktop\Headpose\obj\Debug\net7.0\ref\Headpose.dll
