@@ -15,7 +15,7 @@ namespace RunPythonScript
             string environmentName = "py38";
 
             // specify the path to the Python script that you want to run
-            string scriptPath = @"C:\Users\RaPIDadmin\Desktop\Headpose\headpose.py";
+            string scriptPath = @"C:\Users\RaPIDadmin\Headpose\Headpose\headpose.py";
 
             // specify the command to activate the Anaconda environment and run the Python script
             string command = $@"call {activateScript} {environmentName} && python {scriptPath}";

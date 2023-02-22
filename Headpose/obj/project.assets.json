@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RaPIDadmin\\Desktop\\Headpose\\Headpose.csproj",
+      "projectUniqueName": "C:\\Users\\RaPIDadmin\\Headpose\\Headpose\\Headpose.csproj",
       "projectName": "Headpose",
-      "projectPath": "C:\\Users\\RaPIDadmin\\Desktop\\Headpose\\Headpose.csproj",
+      "projectPath": "C:\\Users\\RaPIDadmin\\Headpose\\Headpose\\Headpose.csproj",
       "packagesPath": "C:\\Users\\RaPIDadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RaPIDadmin\\Desktop\\Headpose\\obj\\",
+      "outputPath": "C:\\Users\\RaPIDadmin\\Headpose\\Headpose\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RaPIDadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"

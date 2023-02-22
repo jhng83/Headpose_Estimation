@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIEQ3mSjLZRTxJ7VJNq85UxO9md1owCS1KnmBeTg8Amf/KkVKcwlbYuQHnpSXB8gDHWTjaHn3GGButEFxRjt0A==",
+  "dgSpecHash": "SpW+1GU3bSdFMBAeeVzIZSjUWDuG8IK8PR3K3i9yI2uASMktKfAZgRZBhpVCPF61P97YGF2/AzLvukcJeGpCqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RaPIDadmin\\Desktop\\Headpose\\Headpose.csproj",
+  "projectFilePath": "C:\\Users\\RaPIDadmin\\Headpose\\Headpose\\Headpose.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
