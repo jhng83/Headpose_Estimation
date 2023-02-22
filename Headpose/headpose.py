@@ -81,6 +81,15 @@ while cap.isOpened():
 
             # Get rotational matrix
             rmat, jac = cv2.Rodrigues(rot_vec)
+            noseEndPoints3D = np.array([[0, 0, 1000.0]], dtype=np.float64)
+            noseEndPoint2D, jacobian = cv2.projectPoints(
+               noseEndPoints3D, rot_vec, trans_vec, cam_matrix, dist_matrix)
+
+            #  draw nose line
+            p1 = (int(nose_2d[0]), int(nose_2d[1]))
+            p2 = (int(noseEndPoint2D[0, 0, 0]), int(noseEndPoint2D[0, 0, 1]))
+            cv2.line(image, p1, p2, (110, 220, 0),
+                    thickness=2, lineType=cv2.LINE_AA)
 
             # Get angles
             angles, mtxR, mtxQ, Qx, Qy, Qz = cv2.RQDecomp3x3(rmat)
