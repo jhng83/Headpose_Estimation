@@ -1,13 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 21 16:04:41 2023
 
-@author: RaPIDadmin
-"""
 import cv2
 import mediapipe as mp
 import numpy as np
-import math
 import sys
 
 mp_face_mesh = mp.solutions.face_mesh
