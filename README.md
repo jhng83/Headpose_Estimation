@@ -1,5 +1,5 @@
 # Headpose
-Acquire live video feed and perform head pose estimation on user. Outputs yaw and pitch angle in C#.
+Acquire live video feed from webcam and perform head pose estimation on user. Outputs yaw and pitch angle in C#.
 
 Make sure to have the following environment configured before running your codes:
 
